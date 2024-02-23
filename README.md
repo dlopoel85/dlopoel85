@@ -10,3 +10,4 @@
 dlopoel85/dlopoel85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Reményeim szerint ebben fognak elkészülni Csaba által adott feladatok :)
