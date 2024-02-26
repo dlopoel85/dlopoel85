@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78283867-2944-496f-b623-7d8c9df1fb3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BodyMassindex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78283867-2944-496f-b623-7d8c9df1fb3f" name="Changes" comment="BodyMassindex1 bekerült" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708898246897</updated>
     </task>
+    <task id="LOCAL-00001" summary="BodyMassindex1 bekerült">
+      <option name="closed" value="true" />
+      <created>1708957812667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708957812667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BodyMassindex1 bekerült" />
+    <option name="LAST_COMMIT_MESSAGE" value="BodyMassindex1 bekerült" />
   </component>
 </project>
