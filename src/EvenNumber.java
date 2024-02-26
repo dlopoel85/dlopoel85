@@ -19,6 +19,12 @@ public class EvenNumber {
         int kezdo = num1 < num2 ? num1 : num2;
         int veg = num1 > num2 ? num1 : num2;
 
+        /*
+        beépített funkcióval még szebb lehet 🙂
+        int kezdo = Math.min(num1, num2);
+        int veg = Math.max(num1, num2);
+        */
+
         System.out.println("Az intervallum kezdő száma: " + kezdo + ", a vég száma: " + veg);
 
         evenNum(kezdo, veg);
