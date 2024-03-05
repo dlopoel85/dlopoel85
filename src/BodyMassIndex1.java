@@ -12,13 +12,15 @@ public class BodyMassIndex1 {
         System.out.println("Kérlek add meg magasságodat méterben: ");
         double height = scanner.nextDouble();
 
-        calculatorBMI( weight , height);
+        calculatorBMI1( weight , height);
+
+        calculatorBMI2( weight , height);
     }
 
 
-    public static void calculatorBMI( double a, double b ) {
-
-        double valueBMI = a / ( b * b);
+    public static void calculatorBMI1( double a, double b ) {
+        System.out.println( "Első megoldás");
+        double valueBMI = a / (b * b);
         System.out.println("A számított BMI : " + valueBMI);
 
         if (valueBMI < 18.5) {
@@ -46,7 +48,40 @@ public class BodyMassIndex1 {
             System.out.println("Elhízott");
 
         }
+    }
 
+        public static void calculatorBMI2 ( double a, double b ) {
+            //Második operátorok
+            System.out.println( "Második fajta megoldás");
+            double c = 1 / (b * b);
+            double valueBMI = a * c;
+            System.out.println("A számított BMI : " + valueBMI);
+
+            if (valueBMI < 18.5) {
+
+                System.out.println("Alultáplált");
+
+            }
+
+
+            if (valueBMI >= 18.5 && valueBMI <= 24.9) {
+
+                System.out.println("Normális");
+
+            }
+
+            if (valueBMI >= 25.0 && valueBMI <= 29.9) {
+
+                System.out.println("Túlsúlyos");
+
+            }
+
+
+            if (valueBMI >= 30.0) {
+
+                System.out.println("Elhízott");
+
+            }
 
         /* BMI Érték		Kategória
         < 18.5			Alultáplált
@@ -60,3 +95,4 @@ public class BodyMassIndex1 {
 
     }
 }
+

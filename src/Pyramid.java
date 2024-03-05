@@ -48,5 +48,5 @@ public class Pyramid {
 
             System.out.println();
         }
-    } //TODO miért nem jól rajzolódik ki???
+    } //TODO miért nem jól rajzolódik ki??? pl 5 és 10 értékekkel egészen szép
 }

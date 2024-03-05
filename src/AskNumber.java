@@ -15,7 +15,7 @@ public class AskNumber {
             oddNum = scanner.nextInt();
         }
 
-        System.out.println("Páratlan számot adott meg, ezért végetért a játék!");
+        System.out.println("Páratlan számot adtál meg, ezért végetért a játék!");
 
         // oddNum(oddNum);
 

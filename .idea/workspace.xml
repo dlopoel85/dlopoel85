@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78283867-2944-496f-b623-7d8c9df1fb3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BodyMassIndex1.java" afterDir="false" />
+    <list default="true" id="78283867-2944-496f-b623-7d8c9df1fb3f" name="Changes" comment="A változás annyi, hogy csináltam egy BodyMassindex1.java osztályt">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork-webler-java-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork-webler-java-basics-Osckar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AskNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AskNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BodyMassIndex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BodyMassIndex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivByThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivByThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +43,7 @@
     "Application.BodyMassIndex1.executor": "Run",
     "Application.DivByThree.executor": "Run",
     "Application.EvenNum2.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Pyramid.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -46,49 +52,62 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BodyMassIndex1">
-    <configuration name="BodyMassIndex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BodyMassIndex1" />
-      <module name="HomeWork-webler-java-basics" />
+  <component name="RunManager" selected="Application.Pyramid">
+    <configuration name="AskNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AskNumber" />
+      <module name="HomeWork-webler-java-basics-Osckar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="DivByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DivByThree" />
-      <module name="HomeWork-webler-java-basics" />
+      <module name="HomeWork-webler-java-basics-Osckar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="EvenNum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EvenNum2" />
-      <module name="HomeWork-webler-java-basics" />
+      <module name="HomeWork-webler-java-basics-Osckar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HomeWork-webler-java-basics" />
+    <configuration name="EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenNumber" />
+      <module name="HomeWork-webler-java-basics-Osckar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pyramid" />
-      <module name="HomeWork-webler-java-basics" />
+      <module name="HomeWork-webler-java-basics-Osckar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HomeWork-webler-java-basics-Osckar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HomeWork-webler-java-basics-Osckar" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BodyMassIndex1" />
         <item itemvalue="Application.Pyramid" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.EvenNum2" />
+        <item itemvalue="Application.EvenNumber" />
         <item itemvalue="Application.DivByThree" />
+        <item itemvalue="Application.AskNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +127,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708898246897</updated>
     </task>
+    <task id="LOCAL-00001" summary="A változás annyi, hogy csináltam egy BodyMassindex1.java osztályt">
+      <option name="closed" value="true" />
+      <created>1708945051818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708945051818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A változás annyi, hogy csináltam egy BodyMassindex1.java osztályt" />
+    <option name="LAST_COMMIT_MESSAGE" value="A változás annyi, hogy csináltam egy BodyMassindex1.java osztályt" />
   </component>
 </project>

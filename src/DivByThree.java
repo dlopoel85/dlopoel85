@@ -9,7 +9,11 @@ public class DivByThree {
 
         for (int i = startNum; i <= endNum; i++) {
             if (i % 3 == 0) {
-                System.out.print(i + ", ");
+                System.out.print(i + ",");
+
+                if (i == 0) {
+                    System.out.println();
+                }
             }
         }
         System.out.println();
